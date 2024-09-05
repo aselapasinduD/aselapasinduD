@@ -23,13 +23,14 @@ Over the course of my life and profession, I like to gain competence in a variet
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aselapasinduD&theme=tokyonight" />
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
 </div>
- <br/>
+<br/>
 
 ## Streak Stats
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aselapasinduD&theme=monokai)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aselapasinduD" alt="Trophies 🏆" /></a> </p>
 
 ## Connect with me
