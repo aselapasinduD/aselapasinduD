@@ -6,15 +6,11 @@
 </p>
 <br>
 
-
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ff/75/d6/ff75d6ba4285982c35529afc176501dc.gif">
-
-
 
 <img src="https://komarev.com/ghpvc/?username=aselapasinduD&label=Profile%20views&color=orange&style=flat" alt="aselapasinduD" /> </p>
 
 <h4 align="center">A passionate software engineering undergraduate with a strong interest in creating innovative and practical solutions through code. I love exploring new technologies and diving deep into the world of software development.</h4>
-
 
 <div>
 
