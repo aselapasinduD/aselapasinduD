@@ -3,7 +3,8 @@
 </div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=aselapasinduD&label=Profile%20views&color=orange&style=flat" alt="aselapasinduD" /> </div>
 
-<h4 align="center">Hello. I'm Asela Pasindu Dias. I'm a multi-talented person who has over 3+ years of experience in a variety of design disciplines, coding, and research fields.
+<h4 align="center">
+Hello. I'm Asela Pasindu Dias. I'm a multi-talented person who has over 3+ years of experience in a variety of design disciplines, coding, and research fields.
 
 Additionally, I'm Doing UI/UX design, software development, and full-stack web development, Three.JS development, C# development. I'm also interested in varieties of programming languages and the concept of disciplines in programming.
 
@@ -11,7 +12,8 @@ I prefer not to use my past work to define who I am. I define myself by the work
 
 I'm passionate about learning new things and conducting research. I have published on Medium.com about my research and my ideas. I'm an enthusiast of science, quantum physics, astronomy, and UAP (UFO).
 
-Over the course of my life and profession, I like to gain competence in a variety of subjects. I am an ENFJ-T personality type. I now conduct remote work with a chosen group of freelancing clients, but I'm always interested in new opportunities.</h4>
+Over the course of my life and profession, I like to gain competence in a variety of subjects. I am an ENFJ-T personality type. I now conduct remote work with a chosen group of freelancing clients, but I'm always interested in new opportunities.
+</h4>
 
 <div>
 # 
@@ -19,7 +21,7 @@ Over the course of my life and profession, I like to gain competence in a variet
 </div>
 
 ## Contributions
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aselapasinduD&theme=tokyonight" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aselapasinduD&theme=tokyonight" />
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
  <br/>
 </div>
