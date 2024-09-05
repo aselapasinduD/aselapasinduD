@@ -1,7 +1,7 @@
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React%20Js%20|%20TypeScript%20|%20NodeJS%20|%20PHP%20-%20Laravel%20;Always%20Learning%20New%20Things&center=true&width=600&height=50"></a>
 </p>
-<img align="center" src="https://komarev.com/ghpvc/?username=aselapasinduD&label=Profile%20views&color=orange&style=flat" alt="aselapasinduD" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=aselapasinduD&label=Profile%20views&color=orange&style=flat" alt="aselapasinduD" /> </p>
 
 <h4 align="center">Hello. I'm Asela Pasindu Dias. I'm a multi-talented person who has over 3+ years of experience in a variety of design disciplines, coding, and research fields.
 
