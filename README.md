@@ -14,7 +14,7 @@ I'm passionate about learning new things and conducting research. I have publish
 Over the course of my life and profession, I like to gain competence in a variety of subjects. I am an ENFJ-T personality type. I now conduct remote work with a chosen group of freelancing clients, but I'm always interested in new opportunities.</h4>
 
 <div>
-#
+# 
  
 </div>
 
