@@ -2,10 +2,8 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React%20Js%20|%20TypeScript%20|%20NodeJS%20|%20PHP%20-%20Laravel%20;Always%20Learning%20New%20Things&center=true&width=600&color=FF6600&height=50&weight=600"></a>
 </div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=aselapasinduD&label=Profile%20views&color=orange&style=flat" alt="aselapasinduD" /> </div>
-<div>
  
 #
-</div>
 <h4 align="center">
 Hello. I'm Asela Pasindu Dias. I'm a multi-talented person who has over 3+ years of experience in a variety of design disciplines, coding, and research fields.
 
@@ -17,11 +15,8 @@ I'm passionate about learning new things and conducting research. I have publish
 
 Over the course of my life and profession, I like to gain competence in a variety of subjects. I am an ENFJ-T personality type. I now conduct remote work with a chosen group of freelancing clients, but I'm always interested in new opportunities.
 </h4>
-
-<div>
  
 #
-</div>
 
 ## Contributions
 <div align="center">
