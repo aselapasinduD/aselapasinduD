@@ -11,7 +11,7 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=MoviniGayaraa&label=Profile%20views&color=0e75b6&style=flat" alt="MoviniGayaraa" /> </p>
+<img src="https://komarev.com/ghpvc/?username=aselapasinduD&label=Profile%20views&color=0e75b6&style=flat" alt="aselapasinduD" /> </p>
 
 <h4 align="center">A passionate software engineering undergraduate with a strong interest in creating innovative and practical solutions through code. I love exploring new technologies and diving deep into the world of software development.</h4>
 
