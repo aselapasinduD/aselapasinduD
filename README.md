@@ -16,8 +16,8 @@ Over the course of my life and profession, I like to gain competence in a variet
 </h4>
 
 <div>
-#l
  
+#
 </div>
 
 ## Contributions
