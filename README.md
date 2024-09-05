@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<h3 align="center"><b><i>Full Stack Developer.</i></b></h3>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React%20Js%20|%20TypeScript%20|%20NodeJS%20|%20PHP%20-%20Laravel%20;Always%20Learning%20New%20Things&center=true&width=600&height=50"></a>
 </p>
