@@ -8,8 +8,6 @@
     object-fit: cover;
   }
 </syle>
-
-![Code_image](https://img.freepik.com/premium-photo/desktop-source-code-wallpaper-by-computer-language-with-coding-programming_33771-595.jpg?w=1380)
  
 #
 <h4 align="center">
