@@ -21,7 +21,6 @@ Over the course of my life and profession, I like to gain competence in a variet
 </div>
 
 ## Contributions
-
 <div align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aselapasinduD&theme=tokyonight" />
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
@@ -29,15 +28,11 @@ Over the course of my life and profession, I like to gain competence in a variet
 </div>
 
 ## Streak Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aselapasinduD&theme=monokai)
  
- 
-<br>
-<br>
-
+<br />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aselapasinduD" alt="Trophies 🏆" /></a> </p>
 
