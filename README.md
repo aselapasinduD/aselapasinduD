@@ -6,8 +6,6 @@
 </p>
 <br>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ff/75/d6/ff75d6ba4285982c35529afc176501dc.gif">
-
 <img src="https://komarev.com/ghpvc/?username=aselapasinduD&label=Profile%20views&color=orange&style=flat" alt="aselapasinduD" /> </p>
 
 <h4 align="center">Hello. I'm Asela Pasindu Dias. I'm a multi-talented person who has over 3+ years of experience in a variety of design disciplines, coding, and research fields.
