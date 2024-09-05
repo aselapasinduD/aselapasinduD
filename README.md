@@ -28,10 +28,10 @@
 
 ## Streak Stats
 
-![](https://github-readme-stats.vercel.app/api?username=MoviniGayaraa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoviniGayaraa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoviniGayaraa&theme=tokyonight" />
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoviniGayaraa&theme=monokai)
+![](https://github-readme-stats.vercel.app/api?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aselapasinduD&theme=tokyonight" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aselapasinduD&theme=monokai)
  
  
 <br>
