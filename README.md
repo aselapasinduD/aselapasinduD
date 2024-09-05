@@ -2,12 +2,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React%20Js%20|%20TypeScript%20|%20NodeJS%20|%20PHP%20-%20Laravel%20;Always%20Learning%20New%20Things&center=true&width=600&color=FF6600&height=50&weight=600"></a>
 </div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=aselapasinduD&label=Profile%20views&color=orange&style=flat" alt="aselapasinduD" /> </div>
-<img alt="code" src="https://img.freepik.com/premium-photo/desktop-source-code-wallpaper-by-computer-language-with-coding-programming_33771-595.jpg?w=1380" width=1380 height=140/>
-<style>
-  img[alt="code"]{
-    object-fit: cover;
-  }
-</style>
+<img alt="code" src="https://img.freepik.com/premium-photo/desktop-source-code-wallpaper-by-computer-language-with-coding-programming_33771-595.jpg?w=1380" width="100%" height=140/>
  
 #
 <h4 align="center">
