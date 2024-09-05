@@ -22,7 +22,7 @@ Over the course of my life and profession, I like to gain competence in a variet
 
 ## Contributions
 
-<div>
+<div align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aselapasinduD&theme=tokyonight" />
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gr8monk3ys/gr8monk3ys/output/github-contribution-grid-snake.svg" />
  <br/>
