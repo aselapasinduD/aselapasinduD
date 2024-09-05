@@ -6,13 +6,13 @@
 #
 <h4 align="center">
 Hello. I'm Asela Pasindu Dias. I'm a multi-talented person who has over 3+ years of experience in a variety of design disciplines, coding, and research fields.
-<br/>
+<br/><br/>
 Additionally, I'm Doing UI/UX design, software development, and full-stack web development, Three.JS development, C# development. I'm also interested in varieties of programming languages and the concept of disciplines in programming.
-<br/>
+<br/><br/>
 I prefer not to use my past work to define who I am. I define myself by the work I want to do. Although personality cannot be taught, skills can. I prefer to continue learning, to challenge myself, and to engage in worthwhile activities.
-<br/>
+<br/><br/>
 I'm passionate about learning new things and conducting research. I have published on Medium.com about my research and my ideas. I'm an enthusiast of science, quantum physics, astronomy, and UAP (UFO).
-<br/>
+<br/><br/>
 Over the course of my life and profession, I like to gain competence in a variety of subjects. I am an ENFJ-T personality type. I now conduct remote work with a chosen group of freelancing clients, but I'm always interested in new opportunities.
 </h4>
  
