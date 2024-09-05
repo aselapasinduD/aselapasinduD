@@ -26,8 +26,8 @@ Over the course of my life and profession, I like to gain competence in a variet
 </div>
 
 ## Streak Stats
-![](https://github-readme-stats.vercel.app/api?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aselapasinduD&theme=monokai)
  
 <br />
