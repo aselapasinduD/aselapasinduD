@@ -27,9 +27,9 @@ Over the course of my life and profession, I like to gain competence in a variet
 
 ## Streak Stats
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aselapasinduD&theme=monokai)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ <img src="https://github-readme-stats.vercel.app/api?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aselapasinduD&theme=monokai" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aselapasinduD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aselapasinduD" alt="Trophies 🏆" /></a> </p>
 
