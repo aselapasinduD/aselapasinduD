@@ -2,7 +2,7 @@
 
 <h3 align="center"><b><i>Full Stack Developer.</i></b></h3>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Learning+Computer+Science;React%20Js%20|%20TypeScript%20|%20NodeJS%20|%20PHP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Learning+Computer+Science;React%20Js%20|%20TypeScript%20|%20NodeJS%20|%20PHP%20-%20Laravel%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=aselapasinduD&label=Profile%20views&color=orange&style=flat" alt="aselapasinduD" /> </p>
