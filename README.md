@@ -5,9 +5,9 @@
 
 #
 <h4 align="center">
-Hello. I'm Asela Pasindu Dias. I'm a multi-talented person who has over 3+ years of experience in a variety of design disciplines, coding, and research fields.
+Hello. I'm Asela Pasindu Dias. I am genuinely passionate about full-stack development and am dedicated to improving my skills through both university education and self-study.
 <br/><br/>
-Additionally, I'm Doing UI/UX design, software development, and full-stack web development, Three.JS development, C# development. I'm also interested in varieties of programming languages and the concept of disciplines in programming.
+While I am still learning, I have gained industry-level experience with a range of programming languages and frameworks. I prefer problem-solving, research, and continual progress, and I am always eager to take on new challenges and improve my skills.
 <br/><br/>
 I prefer not to use my past work to define who I am. I define myself by the work I want to do. Although personality cannot be taught, skills can. I prefer to continue learning, to challenge myself, and to engage in worthwhile activities.
 <br/><br/>
