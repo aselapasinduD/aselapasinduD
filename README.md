@@ -5,7 +5,7 @@
 
 #
 <h4 align="center">
-Hello. I'm Asela Pasindu Dias. I am genuinely passionate about full-stack development and am dedicated to improving my skills through both university education and self-study.
+Hello. I'm Asela Pasindu Dias. I am genuinely passionate about full-stack development , DevOps and I am dedicated to improving my skills through both university education and self-study.
 <br/><br/>
 While I am still learning, I have gained industry-level experience with a range of programming languages and frameworks. I prefer problem-solving, research, and continual progress, and I am always eager to take on new challenges and improve my skills.
 <br/><br/>
